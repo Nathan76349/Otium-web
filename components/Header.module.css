@@ -1,0 +1,22 @@
+/* components/Header.module.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: rgb(0, 0, 0);
+  border-bottom: 1px solid #C6C6C4;
+}
+
+.logo {
+  font-size: 28px;
+  color: #C6C6C4;
+  text-decoration: none;
+}
+
+.nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #C6C6C4;
+  font-weight: bold;
+}

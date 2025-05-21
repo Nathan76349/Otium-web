@@ -1,0 +1,33 @@
+/* styles/globals.css */
+
+body {
+  margin: 0;
+  font-family: 'Cinzel', serif;
+  background-color: #121212;
+  color: #333333;
+}
+
+h1, h2, h3 {
+  color: #C6C6C4;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: 'Cinzel', serif;
+}
+
+button {
+  background-color: #C6C6C4;
+  border: none;
+  border-radius: 24px;
+  padding: 10px 20px;
+  font-family: 'Cinzel', serif;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #aaa;
+}
