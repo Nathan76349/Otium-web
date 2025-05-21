@@ -1,5 +1,5 @@
 // pages/reservations.js
-import Header from '/components/Header';
+import Header from '../components/Header'; // si le fichier est dans pages/
 
 const houses = [
   {

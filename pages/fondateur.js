@@ -1,4 +1,4 @@
-import Header from 'components/Header';
+import Header from '../components/Header'; // si le fichier est dans pages/
 
 export default function Fondateur() {
   return (

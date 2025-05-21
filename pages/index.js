@@ -1,4 +1,4 @@
-import Header from '/components/Header';
+import Header from '../components/Header'; // si le fichier est dans pages/
 import Link from 'next/link';
 
 export default function Home() {
