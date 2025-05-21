@@ -16,7 +16,7 @@ export default function Home() {
         <section style={{ marginBottom: '60px' }}>
           <h1 style={{ fontSize: '3.5rem', fontWeight: '700', marginBottom: '20px' }}>Bienvenue chez Otium</h1>
           <p style={{ fontSize: '1.5rem', maxWidth: '600px', margin: '0 auto 30px auto' }}>
-            La nouvelle façon de profiter dune résidence secondaire de luxe
+            La nouvelle façon de prooooooofiter dune résidence secondaire de luxe
           </p>
           <div>
             <Link href="/reservations" passHref>
